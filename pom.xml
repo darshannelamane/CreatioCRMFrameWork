@@ -76,7 +76,12 @@
 			<artifactId>extentreports</artifactId>
 			<version>3.0.0</version>
 		</dependency>
-
+   will see // dfscwc;
+   lqms;qms;<dependency>
+    <groupId>org.jetbrains.lets-plot</groupId>
+    <artifactId>lets-plot-batik</artifactId>
+    <version>4.1.0</version>
+   </dependency>
 	</dependencies>
 
 
